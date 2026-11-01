@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.edigitalmarketingconcepts.homefireprevention",
+      "sha256_cert_fingerprints": [
+        "6D:A8:60:EE:B4:04:42:7F:47:AF:C0:79:8A:26:BB:2C:60:F9:F5:D4:2E:59:D4:94:E8:87:CF:40:75:7A:F5:3D"
+      ]
+    }
+  }
+]
