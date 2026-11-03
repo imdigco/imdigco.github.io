@@ -8,5 +8,15 @@
         "6D:A8:60:EE:B4:04:42:7F:47:AF:C0:79:8A:26:BB:2C:60:F9:F5:D4:2E:59:D4:94:E8:87:CF:40:75:7A:F5:3D"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.imdigco.edmc",
+      "sha256_cert_fingerprints": [
+        "D7:BC:3A:65:69:7E:47:63:64:FE:E9:ED:47:D6:1C:34:AF:DE:1D:8C:BC:1C:96:D8:C8:1C:70:BD:9C:5C:34:EE"
+      ]
+    }
   }
 ]
